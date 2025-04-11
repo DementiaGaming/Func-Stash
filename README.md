@@ -1,4 +1,4 @@
-# py plus plus
+# Func Stash
  A package that adds useful functions to Python.
 
 # Functions
